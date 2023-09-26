@@ -159,3 +159,40 @@ body {
     margin: 5em;
 }
 
+
+@media screen and (max-width: 768px) {
+    .container {
+        display: block;
+        background-image: none;
+    }
+
+    .container_image {
+        width: 50vw;
+    }
+
+    .container_box {
+        margin: 2em 2em;
+    }
+    
+    .margin_section {
+        margin: 0;
+        text-align: center;
+    }
+
+    .image {
+        width: 50vw;
+    }
+
+    .devices_list {
+        display: block;
+    }
+
+    .footer_list {
+        display: block;
+    }
+
+    .streaming_footer {
+        margin: 2em;
+    }
+
+}
