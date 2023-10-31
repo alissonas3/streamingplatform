@@ -1,2 +1,2 @@
-# streamingplatform
-Landing Page 
+# Streaming Platform Landing Page
+https://streamingplusmovies.vercel.app/
